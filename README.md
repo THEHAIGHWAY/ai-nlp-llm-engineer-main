@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>🗣️ NLP LLM AI Engineer</h1>
+  <h1>🗣️ LLM Engineer</h1>
   <p align="center">
-    🤗 Follow <a href="https://www.linkedin.com/in/emmanuel-kuidjo">Emmanuel KUIDJO</a> • 
+    🤗 Follow <a href="https://www.linkedin.com/in/emmanuel-kuidjo">Me</a> • 
     💻 <a href="https://www.linkedin.com/company/the-haighway">THE HAIGHWAY</a> • 
   </p>
 </div>
@@ -11,19 +11,17 @@
 
 # About THE HAIGHWAY
 
-Welcome !!! Here is a quick presentation of **THE HAIGHWAY**. Feel free to skip to the [next section](#introduction) if you already know about us.
+Welcome !!! 
 
-**THE HAIGHWAY** is a training company in **AI, Data and Cloud**. Our mission is to help you upskill as you were on the job. We offer free and paid learning ressources in **English** & **French**.
-
-For more about our resources, read [here](https://github.com/THEHAIGHWAY/.github.git).
+For a quick presentation of **THE HAIGHWAY**, read [here](https://github.com/THEHAIGHWAY/.github.git).
 
 ---
 
 # Introduction
 
-This repository is our main gateway for LLM AI Engineers. It provides a roadmap and ressources to upskill for this role. It introduces you to our other repositories for this role.
+This repository is our main gateway for LLM Engineers. It provides a roadmap and ressources to upskill for this role. It introduces you to our other repositories for this role.
 
-LLM AI Engineers integrates LLM capabilities in ML products. They build, deploy, scale and maintain LLM capabilities in production environments.
+LLM Engineers integrates LLM capabilities in ML products. They build, deploy, scale and maintain LLM capabilities in production environments.
 
 This repo is stil a **Work In Progress**. But you can already enjoy it. 
 
